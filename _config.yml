@@ -2,9 +2,7 @@ title: Math and stuff
 author: Victoria Lim
 email: v13472889991@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Website for random thoughts and problems I come across that I find interesting.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,7 +14,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github: 13472889991
+    # github: 13472889991
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
