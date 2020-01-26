@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Math and stuff
 author: Victoria Lim
 email: v13472889991@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -16,13 +16,13 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github: 13472889991
+    # github: 13472889991
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: v134
+    # linkedin: v134
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
